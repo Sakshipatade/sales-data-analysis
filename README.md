@@ -15,7 +15,7 @@ This project focuses on analyzing a retail sales dataset to uncover meaningful b
 
 ---
 
-## 📂 Dataset Information
+## ataset Information
 
 The dataset contains retail transaction data with the following key fields:
 
@@ -26,7 +26,7 @@ The dataset contains retail transaction data with the following key fields:
 
 ---
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 
 ### 1. Top Profitable Sub-Categories
 
@@ -51,7 +51,7 @@ Evaluated revenue contribution from different customer segments.
 ---
 
 
-## 💼 Author
+## Author
 
 * Sakshi Patade
 
