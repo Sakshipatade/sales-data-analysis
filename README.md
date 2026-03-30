@@ -15,7 +15,7 @@ This project focuses on analyzing a retail sales dataset to uncover meaningful b
 
 ---
 
-## ataset Information
+## Dataset Information
 
 The dataset contains retail transaction data with the following key fields:
 
