@@ -13,6 +13,6 @@ Evaluated customer segment contribution
 
 Tools Used:
 
-Python
-Pandas
-Matplotlib
+-Python
+-Pandas
+-Matplotlib
